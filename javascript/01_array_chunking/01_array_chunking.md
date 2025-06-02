@@ -38,10 +38,10 @@ Output: [[1, 2, 3]]
 
 ## Constraints & Edge Cases
 
-• The chunk size n is a positive integer greater than O.
-• The input array can be empty.
-• If n is larger than the array length, return a single chunk
-with the entire array.
-• If n is 1, return an array of single-element arrays.
+- The chunk size n is a positive integer greater than O.
+- The input array can be empty.
+- If n is larger than the array length, return a single chunk
+  with the entire array.
+- If n is 1, return an array of single-element arrays.
 
 ---
