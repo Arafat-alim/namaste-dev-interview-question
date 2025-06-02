@@ -26,6 +26,6 @@ This React component displays a counter that allows users to:
 - Reset the count to zero when clicking the "Reset" button.
 - Show the current counter value with the text "Counter".
 
-## Important Points:
+## Reference UI:
 
 ![counter](https://do6gp1uxl3luu.cloudfront.net/question-gif/counterUsingReact.gif)
